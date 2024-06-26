@@ -1,0 +1,7 @@
+C:\Users\kaioz\source\repos\Estoques\Estoques\bin\Debug\Estoques.exe.config
+C:\Users\kaioz\source\repos\Estoques\Estoques\bin\Debug\Estoques.exe
+C:\Users\kaioz\source\repos\Estoques\Estoques\bin\Debug\Estoques.pdb
+C:\Users\kaioz\source\repos\Estoques\Estoques\obj\Debug\Estoques.csproj.AssemblyReference.cache
+C:\Users\kaioz\source\repos\Estoques\Estoques\obj\Debug\Estoques.csproj.CoreCompileInputs.cache
+C:\Users\kaioz\source\repos\Estoques\Estoques\obj\Debug\Estoques.exe
+C:\Users\kaioz\source\repos\Estoques\Estoques\obj\Debug\Estoques.pdb
